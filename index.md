@@ -22,12 +22,22 @@ The StrayCats paper has been published into ApJ! Please use the [ADS entry for t
 
 - ["Extending the Baseline for SMC X-1's Spin and Orbital Behavior with NuSTAR Stray Light", Brumback et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJ...926..187B/abstract)
 
-- ["StrayCats II: An Updated Catalog of NuSTAR Stray Light Observations", Ludlam et al. (2022)](https://doi.org/10.3847/1538-4357/ac7b27)
+- ["StrayCats II: An Updated Catalog of NuSTAR Stray Light Observations", Ludlam et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJ...934...59L/abstract)
+
+- ["NuSTAR Spectral Analysis beyond 79 keV with Stray Light", Mastroserio et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJ...941...35M/abstract)
+
+- ["Revealing the Spectral State Transition of the Clocked Burster, GS 1826-238, with NuSTAR StrayCats", Yun et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJ...947...81Y/abstract)
+
+- ["GX 340+0: In and Out of Focus", Li et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..169L/abstract)
+
+- ["NuSTAR's Intentional Stray Light Observation of Scorpius X-1", Li et al. (2026)](https://ui.adsabs.harvard.edu/abs/2026ApJ..1001..194L/abstract)
 
 ---
 
 ## Summer Undergraduate Research Fellowships based on Stray Light data:
 
+- ["A Spin on StrayCats: Utilizing NuSTAR intentional stray light observations to measure the spin of MAXI J1535-571", Callie Collins (2024)](web_resources/pdfs/UROP_Collins_2024.pdf)
+  
 - ["The Long Term Analysis of GS 1826-24 using StrayCats", Hazel Yun (2022)](web_resources/pdfs/surf_2022_yun.pdf)
 
 - ["GS 1826-24 with NuSTAR Stray Light ", Hazel Yun (2021)](web_resources/pdfs/surf_2021_yun.pdf)
